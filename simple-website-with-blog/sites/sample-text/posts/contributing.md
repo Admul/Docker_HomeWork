@@ -1,0 +1,7 @@
+- Open issue, discuss proposal
+- Fork and clone repository
+- Change code and update tests
+- `npm test`
+- `npm run lint`
+- Review changes
+- Send pull request

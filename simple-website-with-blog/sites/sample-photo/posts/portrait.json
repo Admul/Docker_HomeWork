@@ -1,0 +1,16 @@
+{
+  "title": "Portrait Photo",
+  "publishDate": "2018-01-01T12:00Z",
+  "contentDate": "2016-07-08T12:00Z",
+  "contentJson": [
+    {
+      "image": "portrait.jpg",
+      "image2x": "portrait-2x.jpg",
+      "caption": "A photograph in portrait orientation"
+    }
+  ],
+  "related": [
+    "landscape",
+    "twophotos"
+  ]
+}

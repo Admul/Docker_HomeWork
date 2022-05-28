@@ -1,0 +1,15 @@
+{
+  "extends": "stylelint-config-standard",
+  "ignoreFiles": [
+    "sites/sample-text/static/xcode.css"
+  ],
+  "rules": {
+    "at-rule-empty-line-before": null,
+    "color-hex-length": null,
+    "no-descending-specificity": null,
+    "property-no-vendor-prefix": null,
+    "rule-empty-line-before": null,
+    "selector-class-pattern": null,
+    "shorthand-property-no-redundant-values": null
+  }
+}

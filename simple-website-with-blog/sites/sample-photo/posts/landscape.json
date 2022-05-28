@@ -1,0 +1,16 @@
+{
+  "title": "Landscape Photo",
+  "publishDate": "2018-02-02T12:00Z",
+  "contentDate": "2017-08-09T12:00Z",
+  "contentJson": [
+    {
+      "image": "landscape.jpg",
+      "image2x": "landscape-2x.jpg",
+      "caption": "A photograph in landscape orientation"
+    }
+  ],
+  "related": [
+    "portrait",
+    "twophotos"
+  ]
+}
